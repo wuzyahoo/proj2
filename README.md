@@ -16,4 +16,4 @@ Web3.js v1.3.6
 > Contract: 0xeB43ce6C924D54Ec65a3D931c79EAE93882d00Bb
 > Token Holder Address: 0xb8016917Eb178D9dd704D8C5Fd0c897eD9401524
 
-> github: https://github.com/wuzyahoo/proj2
+
